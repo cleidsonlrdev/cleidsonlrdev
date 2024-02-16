@@ -16,5 +16,4 @@
     <img align="center" alt="angularJs" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-    <img align="center" alt="firebird" width="102.75" height="28" src="https://i.ibb.co/SBdjH90/Gill-Sans-2.png"/>
 </div>
