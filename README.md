@@ -1,4 +1,4 @@
-### Olá! Eu sou o Cleidson Lima 🦅
+### Hi, I'm Cleidson Lima 🦅
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleidsonlr)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cleidson.lima.507)
@@ -6,7 +6,7 @@
 
 ![Cleidson GitHub stats](https://github-readme-stats.vercel.app/api?username=cleidsonlrdev&show_icons=true&theme=radical)
 
-## Tecnologias que uso no dia a dia/tenho conhecimento
+## Technologies I use on a daily basis/am aware of
 <div style="display: inline-flex;">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
